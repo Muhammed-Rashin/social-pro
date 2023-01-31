@@ -1,0 +1,16 @@
+.edit-profile-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  position: relative;
+}
+.edit-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 8%;
+  border-bottom: 1px solid gray;
+  margin-bottom: 25px;
+}

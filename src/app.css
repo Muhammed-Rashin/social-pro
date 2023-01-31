@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.link {
+  color: black;
+}
+
+.link :hover {
+  color: #6b4de6;
+}
