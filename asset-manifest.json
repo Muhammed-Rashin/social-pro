@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/social-pro/static/css/main.3489555f.css",
+    "main.js": "/social-pro/static/js/main.65811433.js",
+    "static/media/Backgorund.mp4": "/social-pro/static/media/Backgorund.620f4328504400f35db5.mp4",
+    "static/media/profile-13.jpg": "/social-pro/static/media/profile-13.9adf09adbd1bedfa02c7.jpg",
+    "static/media/profile-9.jpg": "/social-pro/static/media/profile-9.0d4445cebc211dec7c35.jpg",
+    "index.html": "/social-pro/index.html",
+    "main.3489555f.css.map": "/social-pro/static/css/main.3489555f.css.map",
+    "main.65811433.js.map": "/social-pro/static/js/main.65811433.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3489555f.css",
+    "static/js/main.65811433.js"
+  ]
+}
